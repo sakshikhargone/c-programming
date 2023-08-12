@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-// Program to print namaste
+// Program to take input & print
 
 int main()
 {
-    printf("Namaste C\n");
-    printf("My first program");
+    int n;
+    printf("Enter the value of n");
+    scanf("%d", &n);
+    printf("the value of n : %d", n);
     return 0;
 }

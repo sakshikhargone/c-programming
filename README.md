@@ -6,3 +6,6 @@ Programming in C
 - [Take input from user and print](/programs/p2.c)
 
 - [Check whether number is even and odd](/programs/p3.c)
+
+- [Check number is prime or not](/programs/p4.c)
+

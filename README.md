@@ -10,3 +10,5 @@ Programming in C
 - [Check number is prime or not](/programs/p4.c)
 
 - [Swapping two numbers](/programs/p5.c)
+
+- [Print fibonacci series](/programs/p6.c)

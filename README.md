@@ -12,3 +12,7 @@ Programming in C
 - [Swapping two numbers](/programs/p5.c)
 
 - [Print fibonacci series](/programs/p6.c)
+
+- [Print table](/programs/p8.c)
+
+- [Print 10 natural numbers](/programs/p7.c)

@@ -16,3 +16,5 @@ Programming in C
 - [Print table](/programs/p8.c)
 
 - [Print 10 natural numbers](/programs/p7.c)
+
+- [Switch statement usage](/programs/p9.c)

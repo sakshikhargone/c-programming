@@ -18,3 +18,5 @@ Programming in C
 - [Print 10 natural numbers](/programs/p7.c)
 
 - [Switch statement usage](/programs/p9.c)
+
+- [Simple interest calculation using function](/programs/p10.c)
